@@ -1,5 +1,7 @@
 # Elections de délégués 2022 : ma candidature
 
+**English version below** ([click me](https://github.com/cclaude42/cclaude_2022#transparent)) 🇬🇧🇬🇧
+
 ## Mon message
 
 Pendant ces deux années à 42, j'ai pu constater les conséquences de la distance entre le bocal et les étudiants. Les difficultés de communication, la frustration ressentie - parfois des deux côtés - n'aident pas à la résolution des problèmes majeurs du cursus.
@@ -20,11 +22,11 @@ Ayant passé 2 ans à 42, j'ai une bonne visibilité sur les problèmes auxquels
 
 ### Nouveau cursus
 
-Malgré cela, je reste relativement "jeune", ayant effectué le nouveau cursus. Cela me permet de connaître les struggles et les projets du cercle intérieur.
+Malgré cela, je reste relativement "jeune", ayant effectué le nouveau cursus. Cela me permet de connaître les obstacles et les projets du cercle intérieur.
 
 ### Avancé
 
-Ayant récemment migré sur le cercle extérieur après la validation de transcendance, je commence à faire face aux difficultés sur cercle extérieur et des stages.
+Ayant récemment validé transcendance, je commence à faire face aux difficultés du cercle extérieur et des stages. Là aussi, cela élargit ma visibilité sur le cursus dans son ensemble.
 
 ### Disponible
 
@@ -41,12 +43,12 @@ Défendre le stud demande parfois une opposition au bocal, ce qui est difficile 
 
 ## Mes convictions
 
-Elles sont présentes dans mon message de campagne, mais je les clarifie ici.
+Elles sont présentes dans mon message de campagne, mais je les clarifie ici :
 
 ### A l'écoute
 
 En tant que délégué, je serai à ton écoute : représentant les étudiants, je me dois d'être à leur écoute, et de les représenter le mieux possible auprès du bocal.
-Je t'encourage à me contacter directement si tu as un problème, ou via un autre canal si tu le souhaites (voir plus bas).
+Je veux que les élèves se sentent libres de s'exprimer sans avoir peur de se faire taper sur les doigts. Je t'encourage à me contacter directement si tu as un problème, ou via un autre canal si tu le souhaites (voir plus bas).
 
 ### Intransigeant
 
@@ -55,8 +57,8 @@ Dans la limite du raisonnable, le bocal devrait être au service des étudiants 
 
 ### Transparent
 
-42, une école au fonctionnement des plus obscurs ! Rare est la communication, peu précise est-elle.
-Délégué, je promets être transparent dans mes démarches, rapporter sans artifice mes démarches, t'éclairer sur les réponses (positives ou non) données par le bocal.
+42 a des fonctionnements internes parfois obscurs.
+Afin que les studs comprennent mieux les décisions du bocal, et que le bocal s'intéresse davantage aux préoccupations des studs, je promets d'être transparent dans mes démarches, et de rapporter sans artifice leurs développements.
 
 ## Ce que je veux mettre en place
 
@@ -67,16 +69,16 @@ C'est pourquoi j'aimerais m'entourer de studs de confiance, représentatifs de d
 
 ### Des réunions mensuelles
 
-Tu n'as envie de me contacter directement ? Pas de problème !
-J'aimerais organiser une réunion en holodeck tous les mois, où seuls les étudiants et l'équipe déléguée seront présents, afin de discuter ouvertement des problèmes ressentis, dans un environnement sans risque.
+Tu n'oses pas me contacter directement ? Pas de problème !
+J'aimerais organiser une réunion en holodeck tous les mois, où seuls les étudiants et l'équipe déléguée seront présents, afin de discuter ouvertement et librement des problèmes ressentis, dans un environnement sans risque.
 
 ### Une boîte à suggestions anonyme
 
-Suggestion d'un stud sur le Slack, la boîte anonyme pourrait permettre à ceux qui ne souhaitent pas partager leurs problèmes publiquement de tout de même être entendu. Je suis prêt à faire l'expérience et voir ce que ça donne !
+Suggestion d'un stud sur le Slack, la boîte anonyme pourrait permettre à ceux qui ne souhaitent pas partager leurs problèmes publiquement de tout de même être entendus. Je suis prêt à faire l'expérience et voir ce que ça donne !
 
 ### Des canaux de communication
 
-Ca peut être intéressant, cela me permettrait de communiquer aux intéressés l'état des choses, ce qu'on m'a rapporté, la suite des évènements.
+Un channel Slack, des mails, peut-être autre chose... Je souhaite mettre en place des canaux qui me permettront de te communiquer les informations importantes, en dehors des réunions mensuelles, et où l’information restera.
 
 ## FAQ
 
@@ -84,12 +86,12 @@ Les questions que l'on m'a posé sur Slack (ou que je me pose moi-même) :
 
 ### Tu es souvent à l'école ?
 
-Oui ! Ne fais pas confiance à l'intra, c'est un bug de log. Je viens à 42 plusieurs jours par semaine, et ce toute l'année.
+Oui ! Il y a eu un bug d'enregistrement des heures de log sur mon profil, mais pas d'inquiétude, je suis bel et bien à l'école plusieurs jours par semaine.
 
 ### Comment comptes-tu prioriser les problèmes ?
 
 C'est une question difficile, mais j'espère faire au mieux en combinant bon sens, diversité d'opinion (par mes représentants aux différents profils), et urgence / simplicité.
-Ce sera l'objet d'une réflexion permanente, et je suis ouvert aux suggestions des studs lors des réunions au fil de cette année.
+Ce sera l'objet d'une réflexion permanente, et je suis ouvert aux suggestions des studs lors des réunions au fil de l'année.
 
 ### Quelle est la procédure du staff pour faire remonter ces problèmes ?
 
@@ -103,3 +105,8 @@ Je reste bien sûr disponible sur Slack, et je serai à 42 les jeudis et vendred
 
 Quant à la charge de travail, pas d'inquiétude : si j'ai réussi à valider le socle commun en étant Tuteur et chef de projet à la Junior Entreprise, tu te doutes que je n'aurais aucun mal à assurer mes responsabilités de délégué à côté du stage.
 Je reste à ta disposition, n'ayant à l'heure actuelle que ces deux responsabilités.
+
+
+# 2022 Student representative election - my application
+
+🏗️ Come back later, this is still being built 🚧
