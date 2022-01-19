@@ -110,9 +110,7 @@ Je reste bien sûr disponible sur Slack, et je serai à 42 les jeudis et vendred
 Quant à la charge de travail, pas d'inquiétude : si j'ai réussi à valider le socle commun en étant Tuteur et chef de projet à la Junior Entreprise, tu te doutes que je n'aurais aucun mal à assurer mes responsabilités de délégué à côté du stage.
 Je reste à ta disposition, n'ayant à l'heure actuelle que ces deux responsabilités.
 
-## C'est tout !
-
-Merci à tous !
+## Merci à tous !
 
 ![ok_hand](https://c.tenor.com/yqyHqTYHnBkAAAAC/thumbs-up-90s.gif)
 
@@ -218,8 +216,6 @@ Yes ! I started an internship at Rakuten this week. I'm available through Slack,
 
 As for the workload, no worries : if I was able to finish common core while being a Tutor and a Junior42 project manager, I'll be able to handle it. I'm available, my only two responsabilities being the internship and the student representative role.
 
-## That's all !
-
-Thanks everyone !
+## Thanks everyone !
 
 ![ok_hand](https://c.tenor.com/yqyHqTYHnBkAAAAC/thumbs-up-90s.gif)
