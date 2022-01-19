@@ -1,6 +1,6 @@
 # Elections de délégués 2022 : ma candidature
 
-**English version below** ([click me](https://github.com/cclaude42/cclaude_2022#transparent)) 🇬🇧🇬🇧
+🇬🇧🇬🇧 **English version below** ([click me](https://github.com/cclaude42/cclaude_2022#2022-student-representative-election---my-application)) 🇬🇧🇬🇧
 
 ## Mon message
 
