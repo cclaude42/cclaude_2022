@@ -10,7 +10,7 @@ En tant que délégué, je serai à ton écoute, pour faire remonter tes préocc
 
 ## Où voter ?
 
-Tu peux voter (sur le site du Voxotron)[https://voxotron.42.fr] !
+Tu peux voter [sur le site du Voxotron](https://voxotron.42.fr) !
 
 ## Pourquoi voter cclaude ?
 
