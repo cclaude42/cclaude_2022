@@ -2,6 +2,10 @@
 
 🇬🇧🇬🇧 **English version below** ([click me](https://github.com/cclaude42/cclaude_2022#2022-student-representative-election---my-application)) 🇬🇧🇬🇧
 
+Salut, moi c'est César, j'ai 24 ans et je suis à 42 depuis fin 2019.
+J'ai fini le socle commun récemment, maintenant j'entame le cercle extérieur.
+Je veux représenter les étudiants depuis mon arrivée à l'école, donc forcément, le poste de délégué était l'occasion parfaite !
+
 ## Mon message
 
 Pendant ces deux années à 42, j'ai pu constater les conséquences de la distance entre le bocal et les étudiants. Les difficultés de communication, la frustration ressentie - parfois des deux côtés - n'aident pas à la résolution des problèmes majeurs du cursus.
@@ -47,7 +51,7 @@ Elles sont présentes dans mon message de campagne, mais je les clarifie ici :
 
 ### A l'écoute
 
-En tant que délégué, je serai à ton écoute : représentant les étudiants, je me dois d'être à leur écoute, et de les représenter le mieux possible auprès du bocal.
+Représentant les étudiants, je me dois d'être à leur écoute, et de les représenter le mieux possible auprès du bocal.
 Je veux que les élèves se sentent libres de s'exprimer sans avoir peur de se faire taper sur les doigts. Je t'encourage à me contacter directement si tu as un problème, ou via un autre canal si tu le souhaites (voir plus bas).
 
 ### Intransigeant
@@ -106,7 +110,116 @@ Je reste bien sûr disponible sur Slack, et je serai à 42 les jeudis et vendred
 Quant à la charge de travail, pas d'inquiétude : si j'ai réussi à valider le socle commun en étant Tuteur et chef de projet à la Junior Entreprise, tu te doutes que je n'aurais aucun mal à assurer mes responsabilités de délégué à côté du stage.
 Je reste à ta disposition, n'ayant à l'heure actuelle que ces deux responsabilités.
 
+## C'est tout !
+
+Merci à tous !
+
+![ok_hand](https://c.tenor.com/yqyHqTYHnBkAAAAC/thumbs-up-90s.gif)
 
 # 2022 Student representative election - my application
 
-🏗️ Come back later, this is still being built 🚧
+Hey, I'm Cesar, I'm 24 and I've been at 42 since late 2019.
+I recently finished the common core, and I'm now going through the outer circle.
+I've been wanting to represent students since I first got into 42, so you can imagine student representative was the perfect occasion !
+
+## My message
+
+These past two years at 42, I've witnessed the distance between the school's staff and its students. The communication struggles, the frustration felt - sometimes on both ends - only worsen the curriculum's major issues.
+
+As a representative, I'll be receptive, to understand and present your issues ; uncompromising, to carry your voice where you sometimes feel powerless ; transparent, to clear up 42's cloudy processes.
+
+*So XLII Lutetia doesn't become an Empire, vote cclaude*
+
+## Where can I vote ?
+
+You can vote [on the Voxotron website](https://voxotron.42.fr) !
+
+## Why vote for cclaude ?
+
+### Seniority
+
+Having spent 2 years here, I have a good grasp of the issues the students face.
+
+### New curriculum
+
+That being said, I'm still relatively new, having done the new curriculum. This makes me familiar with the obstacles and subjects new students face.
+
+### Far along
+
+Having recently passed transcendence, I'm starting to face the outer circle and internship issues. This broadens my understanding to a lot of students.
+
+### Available
+
+Outer circle, I'm no longer threatened by the blackhole, which means I'm free to allocate time to the student representative role.
+
+### Former Tutor
+
+During my year as a Tutor, I was able to observe the internal workings of the school, its processes and dysfunction, giving me an experience very useful to open dialogue.
+
+### -FORMER- Tutor
+
+Leaving the Tutors was in part motivated by the frustration I felt when trying to solve problems. The Tutors being staff subordinates moreso than representatives of the student body, not being a part of them anymore means I can freely defend students without a conflict of interest.
+Standing up for students sometimes means opposing the staff, which is very hard if the staff is your colleagues.
+
+## My convictions
+
+They're in my campaign message, but I'll clarify them here :
+
+### Receptive 
+
+As a representative of the students, I must be receptive and understand their issues. I want students to feel free to speak up, without fear of retribution. I encourage you to contact me directly if you have an issue, or another way if you'd like (see farther down).
+
+### Uncompromising
+
+It's not enough to know the student's struggles, I need to fight for them : I vow to be uncompromising in front of the staff, to defend your interests when you can't without fearing repercussions. Within reason, the staff should serve the student body and I hope, through clear (and **insistant**) presentation of the issues, to facilitate your experience with the curriculum and improve staff-student relations.
+
+### Transparent
+
+42 works in mysterious ways. So the students may better understand the staff's decisions, and so the staff may care more about the students' issues, I promise to be transparent in my processes, and to report their developments without hiding anything.
+
+## What I want to implement
+
+### A team
+
+I'd like to build an informal team, to broaden my understanding of the student body : as you can imagine, being the voice of 5000 students isn't easy. As such, I'd like to surroung myself with trustworthy students of various backgrounds (new, seniors, alumni...), who will be able to inform me of **all** the issues students face - no one forgotten.
+
+### Monthly meetings
+
+You don't feel like contacting me directly ? No problem ! I'd like to organize a monthly meeting in the conference room, with only the students and my team, so you can freely and openly discuss the issues you're facing, in a risk-free environment.
+
+### An anonymous suggestion box
+
+Suggested on Slack, the anonymous box would allow those who do not wish to voice their concerns publicly, to do so anonymously. I'm ready to give it a try and see what happens !
+
+### Communication channels
+
+A Slack channel, emails, something else... I'd like to setup channels to allow me to communicate important information, outside of the monthly meetings, and where the information will stay.
+
+## FAQ
+
+Questions I was asked on Slack (or that I ask myself) :
+
+### Are you at school often ?
+
+Yes ! There was a bug with the hours logged on my intra profile, but don't worry, I am at school multiple days a week.
+
+### How will you decide what issues take priority ?
+
+Difficult question, I hope to do best by combining common sense, diversity of opinion (surrounded by various profiles), and urgency / simplicity. It'll be an ongoing concern, and I'm open to suggestions throughout the year.
+
+### What is the procedure for issues ? Has staff told you anything ?
+
+So far, no, it's still unclear. In the beginning, I'll go to them directly, then maybe processes will be set.
+So far, I'll be at : AMAs, assemblies, pedagogy boards, discipline boards, and perfectionning boards.
+
+### Are you in an internship ?
+
+Yes ! I started an internship at Rakuten this week. I'm available through Slack, and at 42 on Thursdays and Fridays.
+
+As for the workload, no worries : if I was able to finish common core while being a Tutor and a Junior42 project manager, I'll be able to handle it. I'm available, my only two responsabilities being the internship and the student representative role.
+
+## That's all !
+
+Thanks everyone !
+
+![ok_hand](https://c.tenor.com/yqyHqTYHnBkAAAAC/thumbs-up-90s.gif)
