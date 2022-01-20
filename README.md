@@ -126,7 +126,7 @@ These past two years at 42, I've witnessed the distance between the school's sta
 
 As a representative, I'll be receptive, to understand and present your issues ; uncompromising, to carry your voice where you sometimes feel powerless ; transparent, to clear up 42's cloudy processes.
 
-*So XLII Lutetia doesn't become an Empire, vote cclaude*
+*So XLII Lutetia doesn't become an Empire, vote Cesar*
 
 ## Where can I vote ?
 
